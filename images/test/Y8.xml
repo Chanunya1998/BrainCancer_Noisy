@@ -1,14 +1,14 @@
 <annotation>
-	<folder>noisy</folder>
+	<folder>yes</folder>
 	<filename>Y8.jpg</filename>
-	<path>C:\Desktop\yes\noisy\Y8.jpg</path>
+	<path>C:\Users\Jidapa\Desktop\BSP\brain_tumor_dataset\yes\Y8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>624</width>
-		<height>539</height>
-		<depth>3</depth>
+		<width>450</width>
+		<height>446</height>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>247</xmin>
-			<ymin>157</ymin>
-			<xmax>327</xmax>
-			<ymax>255</ymax>
+			<xmin>165</xmin>
+			<ymin>129</ymin>
+			<xmax>243</xmax>
+			<ymax>250</ymax>
 		</bndbox>
 	</object>
 </annotation>
